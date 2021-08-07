@@ -1,0 +1,7 @@
+{
+  "name": "My buildx workflow",
+  "description": "Docker buildx and push to ghcr.",
+  "iconName": "loader",
+  "categories": ["Dockerfile"],
+  "filePatterns": ["^Dockerfile"]
+}
